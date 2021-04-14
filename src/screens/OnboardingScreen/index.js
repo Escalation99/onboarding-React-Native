@@ -32,10 +32,10 @@ const LoginScreen = ({ navigation }) => {
         <Onboarding
             onSkip={() => navigation.replace('Login')}
             onDone={() => navigation.navigate('Login')}
-            SkipButtonComponent={Skip}
-            NextButtonComponent={Next}
-            DoneButtonComponent={Done}
-            DotComponent={Dots}
+            // SkipButtonComponent={Skip}
+            // NextButtonComponent={Next}
+            // DoneButtonComponent={Done}
+            // DotComponent={Dots}
 
             pages={[
                 {

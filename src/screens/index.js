@@ -1,4 +1,6 @@
 import LoginScreen from './LoginScreen'
 import OnboardingScreen from './OnboardingScreen'
+import SignupScreen from './SignupScreen'
 
-export { LoginScreen, OnboardingScreen }
+
+export { LoginScreen, OnboardingScreen, SignupScreen }

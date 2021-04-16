@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "715944993424",
+    "project_id": "rn-social-app-9f1f1",
+    "storage_bucket": "rn-social-app-9f1f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715944993424:android:c506d82c820b8db6676e15",
+        "android_client_info": {
+          "package_name": "com.onboardingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715944993424-fbmtsc0q5c8f0bscs5f08v3lcqtmmecp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOibXBKlsw7E9nYY_l8N4FYpcKK_a3mbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715944993424-fbmtsc0q5c8f0bscs5f08v3lcqtmmecp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
